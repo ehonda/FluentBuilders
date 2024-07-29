@@ -1,5 +1,11 @@
 var thing = Director
     .New()
+    // Here we have this:
+    //      C1_Method :: Director
+    //      B1_Method :: C1<Director>
+    //      A1_Method :: B1<C1<Director>>
+    // Therefore, if we call A1_Method, we can't call C1_Method, since we only have a B1 at that point, and it doesn't
+    // have C1-Methods.
     .C1_Method()
     .A1_Method()
     // gives an error
