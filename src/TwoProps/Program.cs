@@ -1,4 +1,4 @@
-﻿using TwoProps;
+using TwoProps;
 
 // EmployeeBuilderDirector : EmployeeInfoBuilder<EmployeeBuilderDirector>
 

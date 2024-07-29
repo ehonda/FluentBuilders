@@ -1,4 +1,4 @@
-﻿namespace Core;
+namespace Core;
 
 public class EmployeeInfoBuilder<T>: EmployeeBuilder where T: EmployeeInfoBuilder<T>
 {

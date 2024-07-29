@@ -1,4 +1,4 @@
-﻿namespace TwoProps;
+namespace TwoProps;
 
 public class EmployeeInfoBuilder<T>: EmployeeBuilder where T: EmployeeInfoBuilder<T>
 {

@@ -1,4 +1,4 @@
-﻿using Core;
+using Core;
 
 // See: https://code-maze.com/fluent-builder-recursive-generics/
 

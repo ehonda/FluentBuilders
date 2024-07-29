@@ -1,4 +1,4 @@
-﻿namespace TwoProps;
+namespace TwoProps;
 
 public class Employee
 {
