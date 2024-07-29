@@ -1,5 +1,7 @@
 ﻿using Core;
 
+// See: https://code-maze.com/fluent-builder-recursive-generics/
+
 // var emp = EmployeeBuilderDirector
 //     .NewEmployee
 //     .WithSalary(3500)

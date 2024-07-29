@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeProps", "src\ThreeProp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoProps", "src\TwoProps\TwoProps.csproj", "{22F2C3B0-195C-42A9-8C25-495D9B09100E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "src\Abstract\Abstract.csproj", "{17342100-A5C3-4058-8C44-8328611D1F93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,9 +28,14 @@ Global
 		{22F2C3B0-195C-42A9-8C25-495D9B09100E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F2C3B0-195C-42A9-8C25-495D9B09100E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F2C3B0-195C-42A9-8C25-495D9B09100E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17342100-A5C3-4058-8C44-8328611D1F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17342100-A5C3-4058-8C44-8328611D1F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17342100-A5C3-4058-8C44-8328611D1F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17342100-A5C3-4058-8C44-8328611D1F93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{172A20CF-606C-48AF-BE1C-557A5AF855DC} = {EEB96BD0-3216-4EB0-B043-1899AE74446D}
 		{22F2C3B0-195C-42A9-8C25-495D9B09100E} = {EEB96BD0-3216-4EB0-B043-1899AE74446D}
+		{17342100-A5C3-4058-8C44-8328611D1F93} = {EEB96BD0-3216-4EB0-B043-1899AE74446D}
 	EndGlobalSection
 EndGlobal
